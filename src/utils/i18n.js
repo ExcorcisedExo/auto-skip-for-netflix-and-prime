@@ -76,8 +76,8 @@ export const i18nMap = {
     skip_ads: "Pular",
   },
   de_DE: {
-    next_epi: "Nächste",
-    skip_intro: "Vorspann überspringen",
+    next_epi: "Nächste Folge",
+    skip_intro: "Intro überspringen",
     skip_recap: "Rückblick überspringen",
     skip_recap_extra: "Zusammenfassung überspringen",
     skip_ads: "Überspringen",
